@@ -139,7 +139,7 @@ The dashboard provides a **comprehensive analysis of AI job trends, salary distr
 ---
 
 ## 🔗 Connect With Me  
-- 💼 LinkedIn: www.linkedin.com/in/sadiya-ansari-a44274319
+- 💼 LinkedIn: www.linkedin.com/in/sadiya-ansari-0002b8291
 - 💻 GitHub:  https://github.com/Sadiya6767
 
 ---
